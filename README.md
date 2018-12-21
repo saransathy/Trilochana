@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Project Trilochana
 
-You can use the [editor on GitHub](https://github.com/saransathy/Trilochana/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is based on the challenge published on [Crowd AI](https://www.crowdai.org/challenges/imageclef-2019-security-stego-image-discovery)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are 3 challenges provided in Crowd AI. This project will address two of those challenges.
+
 
 ### Markdown
 
